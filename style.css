@@ -1,0 +1,164 @@
+/* .nav1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    justify-content: space-around;
+    border-bottom: none;
+    background-color: black;
+    color: #fff;
+    height: 40px;
+}
+.nav00{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    justify-content: center;
+}
+.nav2{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    /* background-color: #fff; */
+
+}
+.navb{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.navb1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 90px;
+    width: 100%;
+    height: 50px;
+    color: #fff;
+    align-items: center;
+    background-color:midnightblue;
+    position: relative;
+   
+}
+
+.ioo{ 
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+}
+.na{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    border-bottom: none;
+    height: 50px; 
+}
+.icon{
+    margin-top: 20px;
+}
+
+/*---------sect2--------------*/
+.phot0 img{
+    width: 100%;
+    height: 30px;
+} 
+
+.navbar{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    border-bottom: none;
+    height: 80px;
+}
+.trak img{
+    width: 100px;
+    height: 133px;
+    position: absolute;
+    left: 80px;
+    top: 5px;
+    object-fit: cover;
+}
+nav{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    justify-content: space-around;
+}
+a{
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+}
+.icon{
+    margin-top: 20px;
+}*/
+
+/*------------image---------*/
+.imagee {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+.texte{
+    text-align: center;
+    position: absolute;
+    left: 400px; 
+    color: #fff;  
+    top: 180px;
+}
+.imagee img{
+    align-items: center;
+    width: 100%;
+    height: 500px;
+    object-fit: cover;
+    position: relative;
+}
+.button{
+    border: 2px solid  red;
+    width: 90px;
+    height: 30px;
+    text-align: center;
+    background-color: #fff;
+    position: absolute;
+    left: 450px;
+    top: 330px;
+}
+.bottom{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    left: 200px;
+    position: relative;
+    bottom: 30px;
+    width: 60%;
+}
+.bottom img{
+    width: 350px;
+    height: 250px;
+    object-fit: cover;
+}
+.cart{
+
+    position: relative;
+}
+.para{
+    position: absolute;
+    top: 10px;
+    left: 50px;
+    color: #fff;
+}
+.from{
+    text-align: center;
+}
+@media screen and (max-width:900px) {
+    .navbar{
+        width:300px;
+    }
+    
+}
